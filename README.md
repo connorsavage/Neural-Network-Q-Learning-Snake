@@ -18,4 +18,4 @@ After setting up and activating the environment, install the following packages 
 - pip install matplotlib ipython
 
 ## To Run
-In the terminal, with the environment active, input `python agent.py` to run the AI. Two popups will appear: a window with the Snake game running and an updating graph illustrating the score, number of iterations, and Q-value.
+In the terminal, run conda activate pygame_env, input `python agent.py` to run the AI. Two popups will appear: a window with the Snake game running and an updating graph illustrating the score, number of iterations, and Q-value.
