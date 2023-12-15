@@ -1,5 +1,5 @@
 # Snake Application of Q-Learning
-This project is a real-time demonstration of Q-learning using the classic game of Snake. The agent will autonomously learn how to play the game through a neural network and reward system.
+This project is a real-time demonstration of Q-learning using the classic game of Snake. In the video displayed below, you will watch an agent autonomously learn how to play the game through a neural network and reward system. The blue line in our graph represents the high score of each game iteration and the orange line represents the mean score of all iterations.
 
 https://github.com/connorsavage/Neural-Network-Q-Learning-Snake/assets/75349013/37935327-a4ac-4f41-a9ae-fdfa83996da9
 
