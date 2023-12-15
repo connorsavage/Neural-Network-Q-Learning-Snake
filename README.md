@@ -19,3 +19,7 @@ After setting up and activating the environment, install the following packages 
 
 ## To Run
 In the terminal, run conda activate pygame_env, input `python agent.py` to run the AI. Two popups will appear: a window with the Snake game running and an updating graph illustrating the score, number of iterations, and Q-value.
+
+
+https://github.com/connorsavage/Neural-Network-Q-Learning-Snake/assets/75349013/cba3e9f8-27ac-4434-9938-a2ad6536fef8
+
